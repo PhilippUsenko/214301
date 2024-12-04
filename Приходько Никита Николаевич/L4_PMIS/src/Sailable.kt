@@ -1,0 +1,3 @@
+interface Sailable {
+    fun sail()
+}
