@@ -1,0 +1,3 @@
+interface Drivable {
+    fun drive()
+}
