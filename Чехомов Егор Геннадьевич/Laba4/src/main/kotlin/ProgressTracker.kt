@@ -1,0 +1,3 @@
+interface ProgressTracker {
+    fun trackProgress()
+}
